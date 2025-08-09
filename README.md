@@ -18,3 +18,7 @@ npm run dev
 ```
 
 Then visit `http://localhost:5173`!
+
+## Play Online
+
+https://nehabo.github.io/tetris-ts/
